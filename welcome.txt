@@ -1,0 +1,10 @@
+** Hi this I am a MOVIE BOT **
+
+
+Commands available are:
+
+/start - You will recive this message.
+/get_movie - This command will send you a link to movie from IMDB.  
+/get_series - Same as get_movie except it gives a series.
+/trending_movie - This command will send you a link to movie from IMDB.
+/trending_series - Same as get_movie except it gives a series.
