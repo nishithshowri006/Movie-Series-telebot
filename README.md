@@ -1,3 +1,3 @@
 # MOVIE TELEGRAM BOT  
 
-This telegram bot helps you to suggest movies from IMDB.
+This telegram bot gives you a random movie or series from chats of IMDB.
